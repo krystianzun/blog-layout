@@ -34,18 +34,19 @@ export default function Home() {
         </p>
 
         <p>
-          Whether you're a recent graduate or looking to pivot your career to
-          something else and new, understanding what employers value and are
+          Whether you&apos;re a recent graduate or looking to pivot your career
+          to something else and new, understanding what employers value and are
           looking for can make all the difference.
         </p>
 
         <p>
-          How can you position yourself as the candidate that can't be ignored?
+          How can you position yourself as the candidate that can&apos;t be
+          ignored?
         </p>
 
         <p>
           Here are some tips that will set you apart and get you closer to that
-          &quot;You're hired!&quot; moment.
+          &quot;You&apos;re hired!&quot; moment.
         </p>
 
         <h2 className="text-2xl font-bold mt-10 mb-4">
@@ -58,7 +59,7 @@ export default function Home() {
 
         <p>What are they looking for?</p>
 
-        <p>How do you show that you're the perfect fit?</p>
+        <p>How do you show that you&apos;re the perfect fit?</p>
 
         <h3 className="text-xl font-bold mt-8 mb-3">Research The Company</h3>
         <p>
@@ -82,8 +83,8 @@ export default function Home() {
         </p>
 
         <p>
-          Checking out the company's presence on LinkedIn, Facebook, YouTube, or
-          other social media platforms is a good idea.
+          Checking out the company&apos;s presence on LinkedIn, Facebook,
+          YouTube, or other social media platforms is a good idea.
         </p>
 
         <p>
@@ -103,8 +104,8 @@ export default function Home() {
         </h3>
         <p>
           The job description is wishlist telling you exactly what the employer
-          wants. That doesn't necessarily mean they will get everything on the
-          &quot;wishlist&quot; but it give you a great overview.
+          wants. That doesn&apos;t necessarily mean they will get everything on
+          the &quot;wishlist&quot; but it give you a great overview.
         </p>
 
         <p>
@@ -126,13 +127,13 @@ export default function Home() {
 
         <p>
           Hiring managers and recruiters want concrete proof you can deliver.
-          They won't dig deep into what certain terms mean.
+          They won&apos;t dig deep into what certain terms mean.
         </p>
 
         <p>
-          But don't just copy-paste phrases. Like I said the job description is
-          a wishlist, meaning most of the time the hiring manager and company
-          know they won't get everything.
+          But don&apos;t just copy-paste phrases. Like I said the job
+          description is a wishlist, meaning most of the time the hiring manager
+          and company know they won&apos;t get everything.
         </p>
 
         <p>
@@ -141,9 +142,10 @@ export default function Home() {
         </p>
 
         <p>
-          Remember your goal is to bridge the gap between what they're asking
-          for and what you bring to the table. When you can do that convincingly
-          to not just meeting employer expectations, but exceed them?
+          Remember your goal is to bridge the gap between what they&apos;re
+          asking for and what you bring to the table. When you can do that
+          convincingly to not just meeting employer expectations, but exceed
+          them?
         </p>
 
         <h2 className="text-2xl font-bold mt-10 mb-4">Strong Resume</h2>
@@ -177,8 +179,8 @@ export default function Home() {
         </p>
 
         <p>
-          Otherwise, I'm going against the grain and saying, &quot;No!&quot;
-          this is a bad idea and waste of your time.
+          Otherwise, I&apos;m going against the grain and saying,
+          &quot;No!&quot; this is a bad idea and waste of your time.
         </p>
 
         <p>
@@ -203,13 +205,13 @@ export default function Home() {
 
         <h3 className="text-xl font-bold mt-8 mb-3">Use Numbers</h3>
         <p>
-          You don't just want to list what you did, but how how you've made a
-          difference and improved. That means use numbers.
+          You don&apos;t just want to list what you did, but how how you&apos;ve
+          made a difference and improved. That means use numbers.
         </p>
 
         <p>
-          If you are like me and hate math, this might seem hard at first. It's
-          more simple than you think.
+          If you are like me and hate math, this might seem hard at first.
+          It&apos;s more simple than you think.
         </p>
 
         <p>
@@ -230,9 +232,9 @@ export default function Home() {
         </blockquote>
 
         <p>
-          If you aren't sure about the exact percentage you have improved in any
-          of these areas, take an estimated guess. The guess should be realistic
-          and not a lie, but ballpark something reasonable.
+          If you aren&apos;t sure about the exact percentage you have improved
+          in any of these areas, take an estimated guess. The guess should be
+          realistic and not a lie, but ballpark something reasonable.
         </p>
 
         <p>
@@ -244,8 +246,8 @@ export default function Home() {
 
         <p>
           Collaboration, adaptability, and communication can often be important
-          even though you can't really put a number on those. They still might
-          resonate with the company's mission or industry.
+          even though you can&apos;t really put a number on those. They still
+          might resonate with the company&apos;s mission or industry.
         </p>
 
         <p>
@@ -267,7 +269,7 @@ export default function Home() {
         </p>
 
         <p>
-          You don't need to commit to going back to school full-time. Going
+          You don&apos;t need to commit to going back to school full-time. Going
           after certifications or licensees might be ideal if you are trying to
           switch careers or improve knowledge.
         </p>
@@ -290,9 +292,9 @@ export default function Home() {
         </p>
 
         <p>
-          New certifications can act as gateway for your career. It's proof that
-          you know your stuff and that you've gone the extra mile to stay sharp
-          in your industry.
+          New certifications can act as gateway for your career. It&apos;s proof
+          that you know your stuff and that you&apos;ve gone the extra mile to
+          stay sharp in your industry.
         </p>
 
         <p>
@@ -303,38 +305,39 @@ export default function Home() {
         <p>
           As an example I got my Certified Personal Trainer (CPT) certification
           when I was between jobs and figure out my career. I pursued this even
-          though it wasn't directly connected to my usual digital marketing
+          though it wasn&apos;t directly connected to my usual digital marketing
           work.
         </p>
 
         <p>
-          While this didn't help me in my career, it was a personal goal and I
-          feel great about telling people I am a CPT. Fitness has always been
-          important to me and I like sharing that with others.
+          While this didn&apos;t help me in my career, it was a personal goal
+          and I feel great about telling people I am a CPT. Fitness has always
+          been important to me and I like sharing that with others.
         </p>
 
         <p>
-          I have on my resume that I am a CPT. When I've gone out on interviews
-          this has made me stand out, even it if is not related to the job I'm
-          being interviewed for. Employers notice when you go above and beyond,
-          and they like to hire people that do self-improvement.
+          I have on my resume that I am a CPT. When I&apos;ve gone out on
+          interviews this has made me stand out, even it if is not related to
+          the job I&apos;m being interviewed for. Employers notice when you go
+          above and beyond, and they like to hire people that do
+          self-improvement.
         </p>
 
         <p>
-          Many argue with me that certifications don't mean much, experience
-          does.
+          Many argue with me that certifications don&apos;t mean much,
+          experience does.
         </p>
 
         <p>
           Having the CPT cert is actually required before you work at most gyms.
-          It's a liability for them and many won't hire you to train people with
-          a CPT cert from ACE, NASM, ISSA, etc.
+          It&apos;s a liability for them and many won&apos;t hire you to train
+          people with a CPT cert from ACE, NASM, ISSA, etc.
         </p>
 
         <p>
           Also if you want personal liability insurance as a personal trainer,
-          some insurance companies won't cover a trainer unless the have a CPT
-          certification.
+          some insurance companies won&apos;t cover a trainer unless the have a
+          CPT certification.
         </p>
 
         <p>
@@ -345,21 +348,21 @@ export default function Home() {
         <p>
           Even in the IT industry a lot of companies will only hire you if you
           have CompTIA certs. In the marketing world having Google Ads
-          certifications can boost your credibility. Marketing and IT jobs don't
-          require either to be successful, but having those certs can open up
-          doors.
+          certifications can boost your credibility. Marketing and IT jobs
+          don&apos;t require either to be successful, but having those certs can
+          open up doors.
         </p>
 
         <p>
-          Certifications also come with another benefit that isn't often talked
-          about, networking.
+          Certifications also come with another benefit that isn&apos;t often
+          talked about, networking.
         </p>
 
         <p>
           Once you get certified the certificate organization often has a
           built-in community. These like-minded professionals and peers are
           often good to connect with. It can lead to jobs or opportunities you
-          wouldn't come across otherwise.
+          wouldn&apos;t come across otherwise.
         </p>
 
         <h2 className="text-2xl font-bold mt-10 mb-4">
@@ -373,7 +376,7 @@ export default function Home() {
         <p>
           A great resume is only going to take you so far. If you want that job
           you must prepare and outshine other candidates in your job interviews.
-          Here's how.
+          Here&apos;s how.
         </p>
 
         <h3 className="text-xl font-bold mt-8 mb-3">
@@ -381,7 +384,8 @@ export default function Home() {
         </h3>
         <p>
           You probably know the usual interview questions such as, &quot;Tell me
-          about yourself!&quot; or &quot;What's your greatest weakness?&quot;
+          about yourself!&quot; or &quot;What&apos;s your greatest
+          weakness?&quot;
         </p>
 
         <p>
@@ -391,7 +395,7 @@ export default function Home() {
         </p>
 
         <p>
-          For the weakness question I'll give you my own response,
+          For the weakness question I&apos;ll give you my own response,
           &quot;Sometimes my communication is described as being too direct. I
           tend to put things bluntly which can rub some people the wrong way. I
           work on this by doing Improv comedy theatre.&quot;
@@ -399,14 +403,14 @@ export default function Home() {
 
         <p>
           Anytime you get this question make sure to end on a positive of what
-          you doing to address it. Make sure you've turned a weakness or
+          you doing to address it. Make sure you&apos;ve turned a weakness or
           challenge into a learning experience.
         </p>
 
         <p>This is pure gold during an interview.</p>
 
         <p>
-          Recruiters and hiring managers don't just want a story, not just
+          Recruiters and hiring managers don&apos;t just want a story, not just
           yes-or-no answers.
         </p>
 
@@ -416,11 +420,11 @@ export default function Home() {
         </p>
 
         <p>
-          Let's say you're asked about a time you resolved conflict at work. You
-          could talk about a time a project derailed due to miscommunication,
-          how you stepped up to make sure the two teams talked to each other.
-          This resulted in success when everyone got to getting the project
-          done.
+          Let&apos;s say you&apos;re asked about a time you resolved conflict at
+          work. You could talk about a time a project derailed due to
+          miscommunication, how you stepped up to make sure the two teams talked
+          to each other. This resulted in success when everyone got to getting
+          the project done.
         </p>
 
         <p>
@@ -446,8 +450,8 @@ export default function Home() {
           Dress Nice for Interviews
         </h3>
         <p>
-          While &quot;dress for success&quot; might sound like a cliché, it's
-          still true that first impressions matter.
+          While &quot;dress for success&quot; might sound like a cliché,
+          it&apos;s still true that first impressions matter.
         </p>
 
         <p>
@@ -456,7 +460,7 @@ export default function Home() {
         </p>
 
         <p>
-          Anytime you go on an interview I'd recommend you wear a nice
+          Anytime you go on an interview I&apos;d recommend you wear a nice
           button-down shirt with decent looking pants and dress shoes. For all
           types of companies though this might not be right.
         </p>
@@ -469,14 +473,14 @@ export default function Home() {
         <p>
           When in doubt, keep it more formal than casual and make sure to keep
           accessories minimal. The key is to look professional without
-          distracting from what you're saying.
+          distracting from what you&apos;re saying.
         </p>
 
         <p>Make sure your grooming and hygiene is on point too.</p>
 
         <p>
           I mean this sound obvious but you would be surprised how many people
-          have shown up to interviews I've done unkempt.
+          have shown up to interviews I&apos;ve done unkempt.
         </p>
 
         <h3 className="text-xl font-bold mt-8 mb-3">
@@ -496,9 +500,9 @@ export default function Home() {
 
         <p>
           DuoLingo, the wildly popular language learning app, would actually
-          send a driver to pick-up candidates from the airport. This isn't to be
-          nice, the hiring team wants to know how the candidate treated the
-          driver. That feedback even makes it to the CEO and Founder.
+          send a driver to pick-up candidates from the airport. This isn&apos;t
+          to be nice, the hiring team wants to know how the candidate treated
+          the driver. That feedback even makes it to the CEO and Founder.
         </p>
 
         <h3 className="text-xl font-bold mt-8 mb-3">Ask Questions!</h3>
@@ -533,7 +537,7 @@ export default function Home() {
 
         <p>
           Exude confidence with thoughtful questions and you will leave a
-          lasting impression they won't forget to get the job.
+          lasting impression they won&apos;t forget to get the job.
         </p>
 
         <h2 className="text-2xl font-bold mt-10 mb-4">
@@ -545,8 +549,8 @@ export default function Home() {
         </p>
 
         <p>
-          I know it's a tough environment right now but by taking some of the
-          advice above you can find the a job.
+          I know it&apos;s a tough environment right now but by taking some of
+          the advice above you can find the a job.
         </p>
 
         <p>
