@@ -5,7 +5,7 @@
 body {
   color: rgba(41, 41, 41, 1);
   background-color: #fff;
-  font-family: "Charter", "Georgia", serif;
+  font-family: "sohne", "Helvetica Neue", sans-serif;
   line-height: 1.8;
   -webkit-font-smoothing: antialiased;
 }
@@ -49,7 +49,7 @@ body {
   }
 
   .prose p {
-    margin-bottom: 2rem;
+    margin-bottom: 1.25rem;
     color: rgba(41, 41, 41, 1);
   }
 

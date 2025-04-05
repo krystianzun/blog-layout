@@ -5,7 +5,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold">
           How Do I Increase My Chances of Getting Hired?
         </h1>
-        <p className="text-lg text-gray-600 mb-6">
+        <p className="text-xl text-gray-600 mb-6">
           Did you know that recruiters spend an average of just 7 seconds
           scanning your resume?
         </p>
