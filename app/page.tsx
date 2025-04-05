@@ -1,26 +1,18 @@
 export default function Home() {
   return (
     <article className="max-w-[700px] mx-auto px-4 py-10">
-      <header className="mb-10">
-        <h1 className="text-4xl font-bold mb-4">
+      <header className="article-header">
+        <h1 className="text-4xl font-bold">
           How Do I Increase My Chances of Getting Hired?
         </h1>
         <p className="text-lg text-gray-600 mb-6">
           Did you know that recruiters spend an average of just 7 seconds
           scanning your resume?
         </p>
-        <div className="flex items-center mb-8">
-          <div className="w-12 h-12 rounded-full bg-gray-300 mr-3"></div>
-          <div>
-            <p className="font-medium">John Doe</p>
-            <p className="text-sm text-gray-500">Apr 5, 2025 · 12 min read</p>
-          </div>
-        </div>
       </header>
 
-      <section className="prose prose-lg max-w-none">
+      <section className="prose">
         <p className="">Yes you read that right — 7 seconds.</p>
-
         <p>
           With competition fiercer than ever, standing out in a sea of qualified
           candidates might feel like an uphill battle. But the good news is,
